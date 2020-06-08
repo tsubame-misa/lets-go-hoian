@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/let-s-go-hoian-HP-/static/css/main.4fa745bb.chunk.css",
+    "main.js": "/let-s-go-hoian-HP-/static/js/main.b3c398eb.chunk.js",
+    "main.js.map": "/let-s-go-hoian-HP-/static/js/main.b3c398eb.chunk.js.map",
+    "runtime-main.js": "/let-s-go-hoian-HP-/static/js/runtime-main.c9927cdd.js",
+    "runtime-main.js.map": "/let-s-go-hoian-HP-/static/js/runtime-main.c9927cdd.js.map",
+    "static/css/2.0c0672e5.chunk.css": "/let-s-go-hoian-HP-/static/css/2.0c0672e5.chunk.css",
+    "static/js/2.9cd89853.chunk.js": "/let-s-go-hoian-HP-/static/js/2.9cd89853.chunk.js",
+    "static/js/2.9cd89853.chunk.js.map": "/let-s-go-hoian-HP-/static/js/2.9cd89853.chunk.js.map",
+    "index.html": "/let-s-go-hoian-HP-/index.html",
+    "precache-manifest.ee502795f9fe085fe9700dfdc19cf90f.js": "/let-s-go-hoian-HP-/precache-manifest.ee502795f9fe085fe9700dfdc19cf90f.js",
+    "service-worker.js": "/let-s-go-hoian-HP-/service-worker.js",
+    "static/css/2.0c0672e5.chunk.css.map": "/let-s-go-hoian-HP-/static/css/2.0c0672e5.chunk.css.map",
+    "static/css/main.4fa745bb.chunk.css.map": "/let-s-go-hoian-HP-/static/css/main.4fa745bb.chunk.css.map",
+    "static/js/2.9cd89853.chunk.js.LICENSE.txt": "/let-s-go-hoian-HP-/static/js/2.9cd89853.chunk.js.LICENSE.txt",
+    "static/media/top.jpg": "/let-s-go-hoian-HP-/static/media/top.1bd8a523.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9927cdd.js",
+    "static/css/2.0c0672e5.chunk.css",
+    "static/js/2.9cd89853.chunk.js",
+    "static/css/main.4fa745bb.chunk.css",
+    "static/js/main.b3c398eb.chunk.js"
+  ]
+}
