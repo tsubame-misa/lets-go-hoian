@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "062764e6a58576293f3988fb12f1dbdc",
+    "revision": "14d6b709316700c20d83eef0e129000b",
     "url": "/lets-go-hoian/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lets-go-hoian/static/css/2.0c0672e5.chunk.css"
   },
   {
-    "revision": "4a29dde59a92408bd539",
+    "revision": "83e70de08977d998a1fb",
     "url": "/lets-go-hoian/static/css/main.4fa745bb.chunk.css"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lets-go-hoian/static/js/2.9cd89853.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a29dde59a92408bd539",
-    "url": "/lets-go-hoian/static/js/main.b6255d89.chunk.js"
+    "revision": "83e70de08977d998a1fb",
+    "url": "/lets-go-hoian/static/js/main.1246c35b.chunk.js"
   },
   {
     "revision": "eeb119f7094b10970886",
     "url": "/lets-go-hoian/static/js/runtime-main.057d7069.js"
   },
   {
-    "revision": "1bd8a523f88fd4aea56a5c88d30644d6",
-    "url": "/lets-go-hoian/static/media/top.1bd8a523.jpg"
+    "revision": "b0fac2b31e37dcd112d14fc8185f7e7a",
+    "url": "/lets-go-hoian/static/media/top_name.b0fac2b3.jpg"
   }
 ]);
