@@ -26,7 +26,7 @@ const TabLink = ({ to, children, exact }) => (
 );
 
 const App = () => (
-  <Router>
+  <Router basename={process.env.PUBLIC_URL}>
     <header>
       <h1
         className="title"
