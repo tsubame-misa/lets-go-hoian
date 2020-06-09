@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abdf5246d520e6d5835cfe21ef97ae92",
+    "revision": "872efc6b46355180003d0ae27aa67f5c",
     "url": "/lets-go-hoian/index.html"
   },
   {
-    "revision": "8a46faf2581d7a03920f",
+    "revision": "bb4a4d29d539f35fd4c7",
     "url": "/lets-go-hoian/static/css/2.0c0672e5.chunk.css"
   },
   {
-    "revision": "ba7f60604be2a234380e",
+    "revision": "5a5f37b481d020d5cea0",
     "url": "/lets-go-hoian/static/css/main.1e0ae678.chunk.css"
   },
   {
-    "revision": "8a46faf2581d7a03920f",
-    "url": "/lets-go-hoian/static/js/2.0d2b6597.chunk.js"
+    "revision": "bb4a4d29d539f35fd4c7",
+    "url": "/lets-go-hoian/static/js/2.95bb8b7f.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/lets-go-hoian/static/js/2.0d2b6597.chunk.js.LICENSE.txt"
+    "url": "/lets-go-hoian/static/js/2.95bb8b7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba7f60604be2a234380e",
-    "url": "/lets-go-hoian/static/js/main.f058dc10.chunk.js"
+    "revision": "5a5f37b481d020d5cea0",
+    "url": "/lets-go-hoian/static/js/main.c4c582d3.chunk.js"
   },
   {
     "revision": "eeb119f7094b10970886",
@@ -72,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lets-go-hoian/static/media/cocoboxStore.004858c7.jpg"
   },
   {
+    "revision": "1b8df50e34ee2453a7eb3dfabfc3be47",
+    "url": "/lets-go-hoian/static/media/home.1b8df50e.JPG"
+  },
+  {
     "revision": "67f535fd8820b63d3a25845096b32624",
     "url": "/lets-go-hoian/static/media/kaurau.67f535fd.jpg"
   },
@@ -86,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cf469238a9cbdb120240c62343ed9baf",
     "url": "/lets-go-hoian/static/media/lantan3.cf469238.jpg"
+  },
+  {
+    "revision": "1e46cc5cd761fd5a4f216626384e399d",
+    "url": "/lets-go-hoian/static/media/map.1e46cc5c.JPG"
   },
   {
     "revision": "b3e59be3a609f3a694036c2d59013049",
